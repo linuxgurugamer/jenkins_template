@@ -1,0 +1,32 @@
+﻿0.1.0
+		Initial release
+
+0.1.1
+		Fixed bug where not having any values in persistent pod name would segfault
+
+0.1.2
+		Made behaviour when nothing specified like stock
+
+0.1.4
+		updated for 1.2
+
+0.1.5
+		Fixed a couple of nullrefs
+
+0.1.6
+		Fixed a problem with ToolbarWrapper.cs
+
+0.1.7
+		Added new vessel types Plane and Relay
+		Added AssemblyVersion.tt
+
+0.1.7.1
+		Disabled Blizzy Toolbar.  Needs work to provide the popup menus, etc
+
+0.1.7.3
+		Added checks for nullrefs when no template specified
+
+0.1.8
+		updated for KSp 1.3
+0.1.9
+		Updated for KSP 1.3.1
