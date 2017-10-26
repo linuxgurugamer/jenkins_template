@@ -8,7 +8,7 @@
 # 5     Add ModuleManager to GameData
 
 # 1:GAMEDIR, VERSIONFILE
-1:PersistentDynamicPodNames, PersistentDynamicPodNames.version
+1:jenkinstest, PersistentDynamicPodNames.version
 
 # 2:PROJNAME, PROJ, VERSIONFILE, PLUGINSFOLDER
 2:jenkinstest,Source/PersistentDynamicPodNames.csproj,PersistentDynamicPodNames.version,GameData/PersistentDynamicPodNames/Plugins
