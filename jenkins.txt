@@ -6,6 +6,7 @@
 # 3     Files to copy, source, dest
 # 4     Directory to copy, sourcedir, destdir
 # 5     Add ModuleManager to GameData
+# 6	Spacedock.info mod id
 
 # 1:GAMEDIR, VERSIONFILE
 1:jenkinstest, PersistentDynamicPodNames.version
@@ -29,4 +30,5 @@
 # 5:ModuleManager
 # 5:ModuleManager
 
-
+# 6:mod_id
+6:1569
